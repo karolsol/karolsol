@@ -13,6 +13,6 @@ I'm Karol, an sysadmin and DevOps enthusiast, who is eager to learn new things. 
 - LinkedIn: [https://www.linkedin.com/in/karolsol/](https://www.linkedin.com/in/karolsol/),
 - GitLab: [https://gitlab.com/karolsol](https://gitlab.com/karolsol),
 - Email: [karolsol203@gmail.com](mailto:karolsol203@gmail.com),
-- GPG Key: [karolsol.asc](https://github.com/karolsol/karolsol/karolsol.asc).
+- GPG Key: [karolsol.asc](https://github.com/karolsol/karolsol/raw/refs/heads/main/karolsol.asc).
 
 ## 🗂️ Notable projects:
