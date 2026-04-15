@@ -1,7 +1,7 @@
 # Hi there 👋 
 I'm Karol, an sysadmin and DevOps enthusiast, who is eager to learn new things. I'm currently pursuing an engineering degree in Computer Science and in my free time I'm working on a few personal projects. 
 ## 👀 Looking for:
-- An internship or a job in the field of DevOps, Cloud, or System Administration,
+- An internship or a job in the field of devOps, backend applications or cloud,
 - Opportunities to collaborate on open-source projects.
 ## 🌱 I’m currently learning:
 - Spring Boot,
